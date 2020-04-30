@@ -1,24 +1,50 @@
-# README
+# Toy App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The project consisted of building a small and simple project to get familiar with Rails.
 
-Things you may want to cover:
+## Built With
 
-* Ruby version
+- Ruby (version 2.6.4)
+- Ruby on Rails (version 5.2.4)
 
-* System dependencies
+## Usage
 
-* Configuration
+Clone the repository to your machine and cd into the directory
 
-* Database creation
+````
+$ git clone git@github.com:ermin-cahtarevic/toy-app.git
+$ cd toy-app
+````
+Use the following command to start the rails server then visit: http://localhost:3000 to use the app
+````
+$ rails s
+````
 
-* Database initialization
+Tests have not been added yet, they are something that should be added eventually
 
-* How to run the test suite
+## Authors
 
-* Services (job queues, cache servers, search engines, etc.)
+👤 **Ermin Cahtarevic**
 
-* Deployment instructions
+- Github: [@ermin-cahtarevic](https://github.com/ermin-cahtarevic)
+- Linkedin: [ermincahtarevic](https://www.linkedin.com/in/ermincahtarevic/)
 
-* ...
+👤 **Vashira Samaila**
+
+- Github: [@Vashiramusa](https://github.com/Vashiramusa)
+- Linkedin: [vashirasamaila](https://www.linkedin.com/in/vashirasamaila/)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/ermin-cahtarevic/toy-app/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- [Microverse](https://www.microverse.org/)
+- [The Odin Project](https://www.theodinproject.com/)
